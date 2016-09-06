@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/StatelessCat/mwe-n3js#readme",
   "dependencies": {
-    "n3": "0.6.0"
+    "n3": "git@github.com:RubenVerborgh/N3.js.git#3ba2ffa7c415e243aab18fa87986fe2fe7d61b17"
   }
 }
